@@ -1,2 +1,2 @@
 # pod-trace-operator
-debug operator for developers
+Debug operator for developers.
